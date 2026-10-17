@@ -1,0 +1,20 @@
+name: haveno_dart
+description: Dart client library for the Haveno decentralized exchange daemon API (port of haveno-ts).
+version: 0.1.0
+homepage: https://github.com/haveno-dex
+license: Apache-2.0
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  grpc: ^4.0.1
+  protobuf: ^4.1.0
+  fixnum: ^1.1.0
+  decimal: ^3.0.2
+  collection: ^1.19.0
+  meta: ^1.16.0
+
+dev_dependencies:
+  lints: ^5.1.1
+  test: ^1.25.0
