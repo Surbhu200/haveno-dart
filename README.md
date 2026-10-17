@@ -1,5 +1,7 @@
 # haveno-dart
 
+[![CI](https://github.com/Surbhu200/haveno-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/Surbhu200/haveno-dart/actions/workflows/ci.yml)
+
 A Dart client for the [Haveno](https://haveno.exchange/) daemon — a port of
 [haveno-ts](https://github.com/haveno-dex/haveno-ts) to native Dart gRPC.
 
